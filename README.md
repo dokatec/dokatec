@@ -4,7 +4,9 @@ Ola, Me chamo Jhonatan Pacheco
 
 <h2>Biografia</h2>
 <p>
-Sou um grande admirador da tecnologia, e desde 2018 venho estudando as atuais tecnologias do mercado como desenvolvimento fullstack para abranger todas as aréas como: frontend, backend, mobile, desktop, IA entre outras dentro do ecosistema javascript, .Net Core.</p>
+Estudante de programação fullstack, busco oportunidade para adquirir experiência com desenvolvimento Frontend (HTML, CSS, Javascript, React), Backend (Node, Java, .net C#), Mobile (React Native, Flutter), Database (SQL e NoSQL).
+
+Prezo sempre trabalhar em equipe, cooperando com todos e ajudando da melhor maneira possível, com grande satisfação em ensinar e aprender</p>
 
 <h2>Minhas Skills</h2>
 
