@@ -2,13 +2,14 @@
 Ola, Me chamo Jhonatan Pacheco
 </h1>
 
-<h2>Biografia</h2>
+<h2>BIOGRAFIA</h2>
 <p>
-Estudante de programação fullstack, busco oportunidade para adquirir experiência com desenvolvimento Frontend (HTML, CSS, Javascript, React), Backend (Node, Java, .net C#), Mobile (React Native, Flutter), Database (SQL e NoSQL).
+Ola, meu nome é Jhonatan Pacheco, tenho 34 anos, sou formado em análise e desenvolvimento de sistemas, moro em São Paulo, sou voluntário em projetos sociais como plataforma impact a qual sou JEDI - Orientador de alunos que estão iniciando, também contribuindo em comunidades TECHS.</p>
 
-Prezo sempre trabalhar em equipe, cooperando com todos e ajudando da melhor maneira possível, com grande satisfação em ensinar e aprender</p>
+<h2> SOBRE MIN</h2>
+<p>Desenvolvedor Back-end/Frontend com experiência no desenvolvimento de Software/aplicativo. Possuo habilidades em Java, Nodejs e C# para o backend e HTML, CSS, Javascript, React, Angular, Vue para frontend e os mais diversos conceitos dentro do ecossistema de desenvolvimento de softwares, utilizando os mais populares frameworks do mercado, sou apaixonado por criar soluções inovadoras e eficientes. Tenho um histórico de sucesso dentro dos projetos aos quais contribuir. Sou um jogador de equipe proativo e colaborativo, com excelentes habilidades de comunicação e resolução de problemas.</p>
 
-<h2>Minhas Skills</h2>
+<h2>MINHAS SKILLS</h2>
 
 <img src="https://devicons.dev.br/icons?icon=HTML,CSS,JavaScript,NodeJS,MongoDB,MySQL,Prisma,TypeScript,React,NextJS,ExpressJS,TypeScript,Sequelize,React,VueJS,Git,Github,Figma,Bootstrap,DotNet&theme=dark"/>
 
